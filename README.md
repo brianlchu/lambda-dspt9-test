@@ -8,10 +8,6 @@ TODO
 # todo
 ```
 
-
-TODO
-## Usage
-*TODO*
-```py
-# todo
+```sh
+pip install 
 ```
